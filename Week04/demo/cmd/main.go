@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"time"
 
-	"kratos-demo/internal/di"
+	"demo/internal/di"
 	"github.com/go-kratos/kratos/pkg/conf/paladin"
 	"github.com/go-kratos/kratos/pkg/log"
 )
