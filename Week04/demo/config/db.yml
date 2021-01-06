@@ -1,0 +1,8 @@
+mysqldb:
+  addr: "localhost:3306"
+  usr: "usr"
+  password: "password"
+  dsn: ""
+  active : 20
+	idle ： 10
+	idleTimeout ： "4h"
